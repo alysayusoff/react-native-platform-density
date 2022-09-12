@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MRTLinePage /> renders correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "flex": 1,
+      },
+      Object {
+        "backgroundColor": "white",
+      },
+    ]
+  }
+>
+  <RCTScrollView
+    contentContainerStyle={
+      Object {
+        "paddingTop": 10,
+      }
+    }
+    style={Object {}}
+  >
+    <View>
+      <Text>
+        Data could not be retrieved at this time. Try again later.
+      </Text>
+    </View>
+  </RCTScrollView>
+  <View
+    style={
+      Array [
+        Object {
+          "borderTopWidth": 1,
+          "flexDirection": "row",
+        },
+        Object {
+          "backgroundColor": "white",
+          "borderTopColor": "#E9E9E9",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "opacity": 1,
+          "padding": 15,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "aspectRatio": 1,
+            "height": 25,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "opacity": 1,
+          "padding": 15,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "aspectRatio": 1,
+            "height": 25,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "opacity": 1,
+          "padding": 15,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "aspectRatio": 1,
+            "height": 25,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "opacity": 1,
+          "padding": 15,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "aspectRatio": 1,
+            "height": 25,
+          }
+        }
+      />
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

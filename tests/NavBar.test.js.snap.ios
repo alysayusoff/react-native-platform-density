@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NavBar /> renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "borderTopWidth": 1,
+        "flexDirection": "row",
+      },
+      Object {
+        "backgroundColor": "white",
+        "borderTopColor": "#E9E9E9",
+      },
+    ]
+  }
+>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "opacity": 1,
+        "padding": 15,
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Object {
+          "aspectRatio": 1,
+          "height": 25,
+        }
+      }
+    />
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "opacity": 1,
+        "padding": 15,
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Object {
+          "aspectRatio": 1,
+          "height": 25,
+        }
+      }
+    />
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "opacity": 1,
+        "padding": 15,
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Object {
+          "aspectRatio": 1,
+          "height": 25,
+        }
+      }
+    />
+  </View>
+  <View
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "opacity": 1,
+        "padding": 15,
+      }
+    }
+  >
+    <Image
+      source={1}
+      style={
+        Object {
+          "aspectRatio": 1,
+          "height": 25,
+        }
+      }
+    />
+  </View>
+</View>
+`;

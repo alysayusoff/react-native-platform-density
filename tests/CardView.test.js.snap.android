@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardView /> renders correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "textAlign": "center",
+      },
+      Object {
+        "color": "black",
+      },
+    ]
+  }
+>
+  Data could not be retrieved at this time. Try again later.
+</Text>
+`;

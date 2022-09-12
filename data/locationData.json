@@ -1,0 +1,2913 @@
+{
+  "BP6": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUKIT PANJANG LRT STATION (BP6)",
+        "X": "20185.8730407264",
+        "Y": "39989.791610267",
+        "LATITUDE": "1.37792694616982",
+        "LONGITUDE": "103.763102931112",
+        "LONGTITUDE": "103.763102931112"
+      }
+    ]
+  },
+  "BP8": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PENDING LRT STATION (BP8)",
+        "X": "21093.7792520449",
+        "Y": "39791.7041831557",
+        "LATITUDE": "1.37613574334988",
+        "LONGITUDE": "103.771261175571",
+        "LONGTITUDE": "103.771261175571"
+      }
+    ]
+  },
+  "BP9": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BANGKIT LRT STATION (BP9)",
+        "X": "21248.0565876467",
+        "Y": "40221.4484106153",
+        "LATITUDE": "1.38002223010088",
+        "LONGITUDE": "103.772647370452",
+        "LONGTITUDE": "103.772647370452"
+      }
+    ]
+  },
+  "BP11": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SEGAR LRT STATION (BP11)",
+        "X": "20908.9104285147",
+        "Y": "41079.8350806553",
+        "LATITUDE": "1.38778508663361",
+        "LONGITUDE": "103.769599685249",
+        "LONGTITUDE": "103.769599685249"
+      }
+    ]
+  },
+  "BP12": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "JELAPANG LRT STATION (BP12)",
+        "X": "20345.1711083958",
+        "Y": "40964.2096878495",
+        "LATITUDE": "1.38673926997961",
+        "LONGITUDE": "103.76453408646",
+        "LONGTITUDE": "103.76453408646"
+      }
+    ]
+  },
+  "BP13": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SENJA LRT STATION (BP13)",
+        "X": "20101.4576015575",
+        "Y": "40520.3910598382",
+        "LATITUDE": "1.38272547134453",
+        "LONGITUDE": "103.76234425472",
+        "LONGTITUDE": "103.76234425472"
+      }
+    ]
+  },
+  "BP2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SOUTH VIEW LRT STATION (BP2)",
+        "X": "18203.72427563",
+        "Y": "40252.0686228592",
+        "LATITUDE": "1.38029828742399",
+        "LONGITUDE": "103.745291799824",
+        "LONGTITUDE": "103.745291799824"
+      }
+    ]
+  },
+  "BP3": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KEAT HONG LRT STATION (BP3)",
+        "X": "18622.5893422375",
+        "Y": "40064.6246900782",
+        "LATITUDE": "1.3786032506373",
+        "LONGITUDE": "103.749055668925",
+        "LONGTITUDE": "103.749055668925"
+      }
+    ]
+  },
+  "BP4": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TECK WHYE LRT STATION (BP4)",
+        "X": "19140.8000152688",
+        "Y": "39852.4607739244",
+        "LATITUDE": "1.37668467920808",
+        "LONGITUDE": "103.753712232337",
+        "LONGTITUDE": "103.753712232337"
+      }
+    ]
+  },
+  "BP5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PHOENIX LRT STATION (BP5)",
+        "X": "19617.4881601976",
+        "Y": "40065.9404090624",
+        "LATITUDE": "1.37861545104083",
+        "LONGITUDE": "103.757995558346",
+        "LONGTITUDE": "103.757995558346"
+      }
+    ]
+  },
+  "BP7": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PETIR LRT STATION (BP7)",
+        "X": "20580.1479736092",
+        "Y": "39972.6518196631",
+        "LATITUDE": "1.37777204259082",
+        "LONGITUDE": "103.766645782497",
+        "LONGTITUDE": "103.766645782497"
+      }
+    ]
+  },
+  "BP1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CHOA CHU KANG LRT STATION (BP1)",
+        "X": "18119.8205469949",
+        "Y": "40744.9184182286",
+        "LATITUDE": "1.38475541089131",
+        "LONGITUDE": "103.74453769781",
+        "LONGTITUDE": "103.74453769781"
+      }
+    ]
+  },
+  "BP10": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "FAJAR LRT STATION (BP10)",
+        "X": "21052.1874405267",
+        "Y": "40724.6743432153",
+        "LATITUDE": "1.38457317668026",
+        "LONGITUDE": "103.770887223018",
+        "LONGTITUDE": "103.770887223018"
+      }
+    ]
+  },
+  "CC1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "DHOBY GHAUT MRT STATION (CC1)",
+        "X": "29443.8824096406",
+        "Y": "31252.5723822247",
+        "LATITUDE": "1.29891164362677",
+        "LONGITUDE": "103.84629250696",
+        "LONGTITUDE": "103.84629250696"
+      }
+    ]
+  },
+  "CC18": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUKIT BROWN MRT STATION (CC18)",
+        "X": "27707.416568011",
+        "Y": "35102.4802705795",
+        "LATITUDE": "1.33372888295973",
+        "LONGITUDE": "103.830689549849",
+        "LONGTITUDE": "103.830689549849"
+      }
+    ]
+  },
+  "CC13": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SERANGOON MRT STATION (CC13)",
+        "X": "32390.6852547908",
+        "Y": "36971.7545485683",
+        "LATITUDE": "1.35063361526525",
+        "LONGITUDE": "103.872771660431",
+        "LONGTITUDE": "103.872771660431"
+      }
+    ]
+  },
+  "CC15": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BISHAN MRT STATION (CC15)",
+        "X": "29760.7755471431",
+        "Y": "37047.1573323701",
+        "LATITUDE": "1.35131580146658",
+        "LONGITUDE": "103.84914026532",
+        "LONGTITUDE": "103.84914026532"
+      }
+    ]
+  },
+  "CC22": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUONA VISTA MRT STATION (CC22)",
+        "X": "23257.9930265341",
+        "Y": "32106.5630513821",
+        "LATITUDE": "1.30663450405",
+        "LONGITUDE": "103.790709404436",
+        "LONGTITUDE": "103.790709404436"
+      }
+    ]
+  },
+  "CC29": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "HARBOURFRONT MRT STATION (NE1 / CC29)",
+        "X": "26688.0367021402",
+        "Y": "27545.8534260485",
+        "LATITUDE": "1.26538938374901",
+        "LONGITUDE": "103.821530157095",
+        "LONGTITUDE": "103.821530157095"
+      }
+    ]
+  },
+  "CC6": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "STADIUM MRT STATION (CC6)",
+        "X": "32676.3477050858",
+        "Y": "31683.9407594204",
+        "LATITUDE": "1.3028124684707",
+        "LONGITUDE": "103.875337711089",
+        "LONGTITUDE": "103.875337711089"
+      }
+    ]
+  },
+  "CC25": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "HAW PAR VILLA MRT STATION (CC25)",
+        "X": "22261.1431040755",
+        "Y": "29445.802035436",
+        "LATITUDE": "1.28257135772488",
+        "LONGITUDE": "103.781752725064",
+        "LONGTITUDE": "103.781752725064"
+      }
+    ]
+  },
+  "CC26": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PASIR PANJANG MRT STATION (CC26)",
+        "X": "23329.2647148455",
+        "Y": "28742.7657615561",
+        "LATITUDE": "1.27621352233766",
+        "LONGITUDE": "103.791350313288",
+        "LONGTITUDE": "103.791350313288"
+      }
+    ]
+  },
+  "CC27": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "LABRADOR PARK MRT STATION (CC27)",
+        "X": "24584.7750495933",
+        "Y": "28304.9440988898",
+        "LATITUDE": "1.27225417749656",
+        "LONGITUDE": "103.802631578766",
+        "LONGTITUDE": "103.802631578766"
+      }
+    ]
+  },
+  "CC28": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TELOK BLANGAH MRT STATION (CC28)",
+        "X": "25378.2908018399",
+        "Y": "28133.7990515903",
+        "LATITUDE": "1.27070647717762",
+        "LONGITUDE": "103.809761611219",
+        "LONGTITUDE": "103.809761611219"
+      }
+    ]
+  },
+  "CC3": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "ESPLANADE MRT STATION (CC3)",
+        "X": "30421.9934839159",
+        "Y": "30671.6277715843",
+        "LATITUDE": "1.2936577245386",
+        "LONGITUDE": "103.855081226245",
+        "LONGTITUDE": "103.855081226245"
+      }
+    ]
+  },
+  "CC4": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PROMENADE MRT STATION (CC4)",
+        "X": "31008.3618750935",
+        "Y": "30709.2578067128",
+        "LATITUDE": "1.29399798636232",
+        "LONGITUDE": "103.860350000188",
+        "LONGTITUDE": "103.860350000188"
+      }
+    ]
+  },
+  "CC5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "NICOLL HIGHWAY MRT STATION (CC5)",
+        "X": "31374.1649264134",
+        "Y": "31347.1528697051",
+        "LATITUDE": "1.29976684675139",
+        "LONGITUDE": "103.86363696572",
+        "LONGTITUDE": "103.86363696572"
+      }
+    ]
+  },
+  "CC7": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MOUNTBATTEN MRT STATION (CC7)",
+        "X": "33476.563426869",
+        "Y": "32058.7418466732",
+        "LATITUDE": "1.30620190525331",
+        "LONGITUDE": "103.882528081052",
+        "LONGTITUDE": "103.882528081052"
+      }
+    ]
+  },
+  "CC8": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "DAKOTA MRT STATION (CC8)",
+        "X": "34204.0252977135",
+        "Y": "32318.1744557619",
+        "LATITUDE": "1.30854798388121",
+        "LONGITUDE": "103.889064718377",
+        "LONGTITUDE": "103.889064718377"
+      }
+    ]
+  },
+  "CC10": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MACPHERSON MRT STATION (CC10)",
+        "X": "34351.6177675035",
+        "Y": "34256.5138255134",
+        "LATITUDE": "1.32607760171665",
+        "LONGITUDE": "103.890391305725",
+        "LONGTITUDE": "103.890391305725"
+      }
+    ]
+  },
+  "CC11": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TAI SENG MRT STATION (CC11)",
+        "X": "34128.792347569",
+        "Y": "35258.74881576",
+        "LATITUDE": "1.33514150139202",
+        "LONGITUDE": "103.888389300191",
+        "LONGTITUDE": "103.888389300191"
+      }
+    ]
+  },
+  "CC12": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BARTLEY MRT STATION (CC12)",
+        "X": "33214.9339675205",
+        "Y": "36072.5255325548",
+        "LATITUDE": "1.34250117805245",
+        "LONGITUDE": "103.880177899184",
+        "LONGTITUDE": "103.880177899184"
+      }
+    ]
+  },
+  "CC14": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "LORONG CHUAN MRT STATION (CC14)",
+        "X": "31431.4054671209",
+        "Y": "37079.9443690311",
+        "LATITUDE": "1.35161217074555",
+        "LONGITUDE": "103.864151938651",
+        "LONGTITUDE": "103.864151938651"
+      }
+    ]
+  },
+  "CC16": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MARYMOUNT MRT STATION (CC16)",
+        "X": "28679.3687734958",
+        "Y": "36758.7136478554",
+        "LATITUDE": "1.348707263451",
+        "LONGITUDE": "103.839423132332",
+        "LONGTITUDE": "103.839423132332"
+      }
+    ]
+  },
+  "CC17": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CALDECOTT MRT STATION (CC17)",
+        "X": "28691.2450525351",
+        "Y": "35538.7680123672",
+        "LATITUDE": "1.33767450815619",
+        "LONGITUDE": "103.839529820338",
+        "LONGTITUDE": "103.839529820338"
+      }
+    ]
+  },
+  "CC19": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BOTANIC GARDENS MRT STATION (CC19)",
+        "X": "25959.6005048994",
+        "Y": "33818.1442215387",
+        "LATITUDE": "1.32211373558877",
+        "LONGITUDE": "103.814984510627",
+        "LONGTITUDE": "103.814984510627"
+      }
+    ]
+  },
+  "CC2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BRAS BASAH MRT STATION (CC2)",
+        "X": "29930.7673842637",
+        "Y": "31025.9015965667",
+        "LATITUDE": "1.29686168649656",
+        "LONGITUDE": "103.850667371637",
+        "LONGTITUDE": "103.850667371637"
+      }
+    ]
+  },
+  "CC20": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "FARRER ROAD MRT STATION (CC20)",
+        "X": "25113.2011973979",
+        "Y": "33301.2602245007",
+        "LATITUDE": "1.31743915158967",
+        "LONGITUDE": "103.807379214161",
+        "LONGTITUDE": "103.807379214161"
+      }
+    ]
+  },
+  "CC21": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "HOLLAND VILLAGE MRT STATION (CC21)",
+        "X": "23891.2152273953",
+        "Y": "32726.4128267691",
+        "LATITUDE": "1.31224029631595",
+        "LONGITUDE": "103.796399122407",
+        "LONGTITUDE": "103.796399122407"
+      }
+    ]
+  },
+  "CC23": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "ONE-NORTH MRT STATION (CC23)",
+        "X": "22896.0728127016",
+        "Y": "31346.4080956969",
+        "LATITUDE": "1.29975987493555",
+        "LONGITUDE": "103.78745750525",
+        "LONGTITUDE": "103.78745750525"
+      }
+    ]
+  },
+  "CC24": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KENT RIDGE MRT STATION (CC24)",
+        "X": "22575.0107144611",
+        "Y": "30657.9332947638",
+        "LATITUDE": "1.29353349887123",
+        "LONGITUDE": "103.784572738173",
+        "LONGTITUDE": "103.784572738173"
+      }
+    ]
+  },
+  "CC9": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PAYA LEBAR MRT STATION (CC9)",
+        "X": "34559.6916920897",
+        "Y": "33280.1181892157",
+        "LATITUDE": "1.3172473854035",
+        "LONGITUDE": "103.892260753884",
+        "LONGTITUDE": "103.892260753884"
+      }
+    ]
+  },
+  "CE1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BAYFRONT MRT STATION (DT16 / CE1)",
+        "X": "30867.0092712184",
+        "Y": "29368.6250332333",
+        "LATITUDE": "1.28187378879209",
+        "LONGITUDE": "103.859079764874",
+        "LONGTITUDE": "103.859079764874"
+      }
+    ]
+  },
+  "CE2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MARINA BAY MRT STATION (CE2)",
+        "X": "30462.7349769669",
+        "Y": "28746.9336326458",
+        "LATITUDE": "1.27625146423743",
+        "LONGITUDE": "103.855447156279",
+        "LONGTITUDE": "103.855447156279"
+      }
+    ]
+  },
+  "CG1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "EXPO MRT STATION (CG1)",
+        "X": "42270.6232344816",
+        "Y": "35193.6223453786",
+        "LATITUDE": "1.33454977824817",
+        "LONGITUDE": "103.961548211018",
+        "LONGTITUDE": "103.961548211018"
+      }
+    ]
+  },
+  "CG2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CHANGI AIRPORT MRT STATION (CG2)",
+        "X": "45201.320394692",
+        "Y": "37729.1933764666",
+        "LATITUDE": "1.35747897447692",
+        "LONGITUDE": "103.98788356959",
+        "LONGTITUDE": "103.98788356959"
+      }
+    ]
+  },
+  "DT29": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BEDOK NORTH MRT STATION (DT29)",
+        "X": "37421.7438196167",
+        "Y": "35214.6803870108",
+        "LATITUDE": "1.33474211664091",
+        "LONGITUDE": "103.91797832995",
+        "LONGTITUDE": "103.91797832995"
+      }
+    ]
+  },
+  "DT31": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TAMPINES WEST MRT STATION (DT31)",
+        "X": "39698.5275852969",
+        "Y": "36406.0143331178",
+        "LATITUDE": "1.34551530560119",
+        "LONGITUDE": "103.938436971222",
+        "LONGTITUDE": "103.938436971222"
+      }
+    ]
+  },
+  "DT32": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TAMPINES MRT STATION (DT32)",
+        "X": "40207.3952279184",
+        "Y": "37471.4394600224",
+        "LATITUDE": "1.35515041120473",
+        "LONGITUDE": "103.943009883131",
+        "LONGTITUDE": "103.943009883131"
+      }
+    ]
+  },
+  "DT34": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "UPPER CHANGI MRT STATION (DT34)",
+        "X": "42262.187971171",
+        "Y": "35988.6568845119",
+        "LATITUDE": "1.34173977444995",
+        "LONGITUDE": "103.961472788634",
+        "LONGTITUDE": "103.961472788634"
+      }
+    ]
+  },
+  "DT1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUKIT PANJANG MRT STATION (DT1)",
+        "X": "20011.3981217332",
+        "Y": "40108.6837660205",
+        "LATITUDE": "1.37900211641036",
+        "LONGITUDE": "103.761535114929",
+        "LONGTITUDE": "103.761535114929"
+      }
+    ]
+  },
+  "DT11": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "NEWTON MRT STATION (DT11)",
+        "X": "28489.236438402",
+        "Y": "32920.1726889089",
+        "LATITUDE": "1.31399286264569",
+        "LONGITUDE": "103.837714613091",
+        "LONGTITUDE": "103.837714613091"
+      }
+    ]
+  },
+  "DT12": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "LITTLE INDIA MRT STATION (DT12)",
+        "X": "29707.4618838392",
+        "Y": "32148.9626245815",
+        "LATITUDE": "1.30701826765224",
+        "LONGITUDE": "103.848660935092",
+        "LONGTITUDE": "103.848660935092"
+      }
+    ]
+  },
+  "DT13": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "ROCHOR MRT STATION (DT13)",
+        "X": "30164.7018503863",
+        "Y": "31798.8766778279",
+        "LATITUDE": "1.30385218527656",
+        "LONGITUDE": "103.852769428884",
+        "LONGTITUDE": "103.852769428884"
+      }
+    ]
+  },
+  "DT14": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUGIS MRT STATION (DT14)",
+        "X": "30649.548609254",
+        "Y": "31297.0167393312",
+        "LATITUDE": "1.29931350344582",
+        "LONGITUDE": "103.857125959023",
+        "LONGTITUDE": "103.857125959023"
+      }
+    ]
+  },
+  "DT15": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PROMENADE MRT STATION (DT15)",
+        "X": "31068.6608139481",
+        "Y": "30586.9369543009",
+        "LATITUDE": "1.29289175383295",
+        "LONGITUDE": "103.860891800025",
+        "LONGTITUDE": "103.860891800025"
+      }
+    ]
+  },
+  "DT17": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "DOWNTOWN MRT STATION (DT17)",
+        "X": "30172.6688074525",
+        "Y": "29100.2087655049",
+        "LATITUDE": "1.27944638178916",
+        "LONGITUDE": "103.852840829581",
+        "LONGTITUDE": "103.852840829581"
+      }
+    ]
+  },
+  "DT18": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TELOK AYER MRT STATION (DT18)",
+        "X": "29706.1259155739",
+        "Y": "29390.1953907572",
+        "LATITUDE": "1.28206894769394",
+        "LONGITUDE": "103.848648781083",
+        "LONGTITUDE": "103.848648781083"
+      }
+    ]
+  },
+  "DT19": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CHINATOWN MRT STATION (DT19)",
+        "X": "29316.0490006926",
+        "Y": "29628.4789423887",
+        "LATITUDE": "1.28422391919085",
+        "LONGITUDE": "103.845143798953",
+        "LONGTITUDE": "103.845143798953"
+      }
+    ]
+  },
+  "DT2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CASHEW MRT STATION (DT2)",
+        "X": "20334.5589111606",
+        "Y": "39092.8585418891",
+        "LATITUDE": "1.36981544925552",
+        "LONGITUDE": "103.76443921414",
+        "LONGTITUDE": "103.76443921414"
+      }
+    ]
+  },
+  "DT20": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "FORT CANNING MRT STATION (DT20)",
+        "X": "29225.6276065866",
+        "Y": "30541.6087720692",
+        "LATITUDE": "1.29248194822996",
+        "LONGITUDE": "103.844331362465",
+        "LONGTITUDE": "103.844331362465"
+      }
+    ]
+  },
+  "DT21": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BENCOOLEN MRT STATION (DT21)",
+        "X": "29895.8639496444",
+        "Y": "31253.3258734122",
+        "LATITUDE": "1.29891843369422",
+        "LONGITUDE": "103.850353762717",
+        "LONGTITUDE": "103.850353762717"
+      }
+    ]
+  },
+  "DT22": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "JALAN BESAR MRT STATION (DT22)",
+        "X": "30445.8529787809",
+        "Y": "31944.7496234626",
+        "LATITUDE": "1.3051713878069",
+        "LONGITUDE": "103.855295713435",
+        "LONGTITUDE": "103.855295713435"
+      }
+    ]
+  },
+  "DT23": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BENDEMEER MRT STATION (DT23)",
+        "X": "31300.7676084097",
+        "Y": "32884.7709222045",
+        "LATITUDE": "1.31367252847691",
+        "LONGITUDE": "103.862977620945",
+        "LONGTITUDE": "103.862977620945"
+      }
+    ]
+  },
+  "DT24": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "GEYLANG BAHRU MRT STATION (DT24)",
+        "X": "32262.8612591857",
+        "Y": "33728.3126899004",
+        "LATITUDE": "1.32130110228321",
+        "LONGITUDE": "103.871622627142",
+        "LONGTITUDE": "103.871622627142"
+      }
+    ]
+  },
+  "DT25": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MATTAR MRT STATION (DT25)",
+        "X": "33556.5834402461",
+        "Y": "34344.8585332558",
+        "LATITUDE": "1.32687671501334",
+        "LONGITUDE": "103.883247509542",
+        "LONGTITUDE": "103.883247509542"
+      }
+    ]
+  },
+  "DT26": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MACPHERSON MRT STATION (DT26)",
+        "X": "34230.0104828067",
+        "Y": "34264.5435281098",
+        "LATITUDE": "1.32615024457361",
+        "LONGITUDE": "103.889298600376",
+        "LONGTITUDE": "103.889298600376"
+      }
+    ]
+  },
+  "DT27": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "UBI MRT STATION (DT27)",
+        "X": "35334.8918333696",
+        "Y": "34687.4109907392",
+        "LATITUDE": "1.32997425973974",
+        "LONGITUDE": "103.899226655439",
+        "LONGTITUDE": "103.899226655439"
+      }
+    ]
+  },
+  "DT28": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KAKI BUKIT MRT STATION (DT28)",
+        "X": "36362.3782825153",
+        "Y": "35239.5522551257",
+        "LATITUDE": "1.33496735995428",
+        "LONGITUDE": "103.908459338046",
+        "LONGTITUDE": "103.908459338046"
+      }
+    ]
+  },
+  "DT3": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "HILLVIEW MRT STATION (DT3)",
+        "X": "20666.0675499607",
+        "Y": "38266.7898455672",
+        "LATITUDE": "1.36234486803558",
+        "LONGITUDE": "103.767418254007",
+        "LONGTITUDE": "103.767418254007"
+      }
+    ]
+  },
+  "DT30": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BEDOK RESERVOIR MRT STATION (DT30)",
+        "X": "39008.3131622663",
+        "Y": "35421.0408713054",
+        "LATITUDE": "1.33660782955099",
+        "LONGITUDE": "103.932234623286",
+        "LONGTITUDE": "103.932234623286"
+      }
+    ]
+  },
+  "DT33": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TAMPINES EAST MRT STATION (DT33)",
+        "X": "41501.0748521937",
+        "Y": "37586.6177644413",
+        "LATITUDE": "1.35619148271544",
+        "LONGITUDE": "103.9546344625",
+        "LONGTITUDE": "103.9546344625"
+      }
+    ]
+  },
+  "DT35": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "EXPO MRT STATION (DT35)",
+        "X": "42362.6034600167",
+        "Y": "35285.7083877847",
+        "LATITUDE": "1.33538252614956",
+        "LONGITUDE": "103.962374747451",
+        "LONGTITUDE": "103.962374747451"
+      }
+    ]
+  },
+  "DT5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BEAUTY WORLD MRT STATION (DT5)",
+        "X": "21598.1664763764",
+        "Y": "35931.2358860858",
+        "LATITUDE": "1.34122317558549",
+        "LONGITUDE": "103.775794285083",
+        "LONGTITUDE": "103.775794285083"
+      }
+    ]
+  },
+  "DT6": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KING ALBERT PARK MRT STATION (DT6)",
+        "X": "22444.4895690959",
+        "Y": "35316.2479055841",
+        "LATITUDE": "1.33566161262214",
+        "LONGITUDE": "103.783399113441",
+        "LONGTITUDE": "103.783399113441"
+      }
+    ]
+  },
+  "DT7": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SIXTH AVENUE MRT STATION (DT7)",
+        "X": "23947.7493738988",
+        "Y": "34785.0233010761",
+        "LATITUDE": "1.33085764536226",
+        "LONGITUDE": "103.796906838288",
+        "LONGTITUDE": "103.796906838288"
+      }
+    ]
+  },
+  "DT8": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TAN KAH KEE MRT STATION (DT8)",
+        "X": "25155.6221095249",
+        "Y": "34198.8053115103",
+        "LATITUDE": "1.32555623519898",
+        "LONGITUDE": "103.807760304729",
+        "LONGTITUDE": "103.807760304729"
+      }
+    ]
+  },
+  "DT9": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BOTANIC GARDENS MRT STATION (DT9)",
+        "X": "26074.1720875856",
+        "Y": "33859.5354773961",
+        "LATITUDE": "1.32248807089544",
+        "LONGITUDE": "103.816013994259",
+        "LONGTITUDE": "103.816013994259"
+      }
+    ]
+  },
+  "DT16": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BAYFRONT MRT STATION (DT16 / CE1)",
+        "X": "30867.0092712184",
+        "Y": "29368.6250332333",
+        "LATITUDE": "1.28187378879209",
+        "LONGITUDE": "103.859079764874",
+        "LONGTITUDE": "103.859079764874"
+      }
+    ]
+  },
+  "DT10": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "STEVENS MRT STATION (DT10)",
+        "X": "27188.2299643802",
+        "Y": "33591.6608552355",
+        "LATITUDE": "1.32006555750626",
+        "LONGITUDE": "103.826024401924",
+        "LONGTITUDE": "103.826024401924"
+      }
+    ]
+  },
+  "EW14": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "RAFFLES PLACE MRT STATION (EW14 / NS26)",
+        "X": "30019.180527918",
+        "Y": "29617.6125848945",
+        "LATITUDE": "1.28412561043658",
+        "LONGITUDE": "103.851461712342",
+        "LONGTITUDE": "103.851461712342"
+      }
+    ]
+  },
+  "EW16": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "OUTRAM PARK MRT STATION (EW16)",
+        "X": "28646.8726726929",
+        "Y": "29316.780396251",
+        "LATITUDE": "1.28140504772213",
+        "LONGITUDE": "103.839130979249",
+        "LONGTITUDE": "103.839130979249"
+      }
+    ]
+  },
+  "EW21": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUONA VISTA MRT STATION (EW21)",
+        "X": "23207.2578019593",
+        "Y": "32171.7150982097",
+        "LATITUDE": "1.3072237082044",
+        "LONGITUDE": "103.790253514502",
+        "LONGTITUDE": "103.790253514502"
+      }
+    ]
+  },
+  "EW23": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CLEMENTI MRT STATION (EW23)",
+        "X": "20418.1055078562",
+        "Y": "33044.4944669213",
+        "LATITUDE": "1.31511625277378",
+        "LONGITUDE": "103.765191452888",
+        "LONGTITUDE": "103.765191452888"
+      }
+    ]
+  },
+  "EW5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BEDOK MRT STATION (EW5)",
+        "X": "38757.952049505",
+        "Y": "34024.7047772072",
+        "LATITUDE": "1.32397996868158",
+        "LONGITUDE": "103.929984495066",
+        "LONGTITUDE": "103.929984495066"
+      }
+    ]
+  },
+  "EW7": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "EUNOS MRT STATION (EW7)",
+        "X": "35779.9883453855",
+        "Y": "33560.5858968049",
+        "LATITUDE": "1.31978354916088",
+        "LONGITUDE": "103.903225807255",
+        "LONGTITUDE": "103.903225807255"
+      }
+    ]
+  },
+  "EW8": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PAYA LEBAR MRT STATION (EW8)",
+        "X": "34648.7236344032",
+        "Y": "33375.6688563768",
+        "LATITUDE": "1.31811149224527",
+        "LONGITUDE": "103.893060771576",
+        "LONGTITUDE": "103.893060771576"
+      }
+    ]
+  },
+  "EW24": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "JURONG EAST MRT STATION (EW24 / NS1)",
+        "X": "17869.0570516568",
+        "Y": "35038.9688695427",
+        "LATITUDE": "1.33315281585758",
+        "LONGITUDE": "103.742286332403",
+        "LONGTITUDE": "103.742286332403"
+      }
+    ]
+  },
+  "EW13": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CITY HALL MRT STATION (EW13 / NS25)",
+        "X": "30144.2503791479",
+        "Y": "30591.9008128252",
+        "LATITUDE": "1.29293672227779",
+        "LONGITUDE": "103.852585580366",
+        "LONGTITUDE": "103.852585580366"
+      }
+    ]
+  },
+  "EW1": {
+    "found": 2,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PASIR RIS MRT STATION (EW1)",
+        "X": "40905.597462655",
+        "Y": "39449.9823396821",
+        "LATITUDE": "1.37304331635804",
+        "LONGITUDE": "103.949284527763",
+        "LONGTITUDE": "103.949284527763"
+      },
+      {
+        "SEARCHVAL": "NATIONAL UNIVERSITY OF SINGAPORE (EW1)",
+        "X": "21037.6459141811",
+        "Y": "31213.869619485",
+        "LATITUDE": "1.29856088351449",
+        "LONGITUDE": "103.770758741678",
+        "LONGTITUDE": "103.770758741678"
+      }
+    ]
+  },
+  "EW10": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KALLANG MRT STATION (EW10)",
+        "X": "32236.6038438473",
+        "Y": "32643.3302382641",
+        "LATITUDE": "1.31148890998818",
+        "LONGITUDE": "103.871386541754",
+        "LONGTITUDE": "103.871386541754"
+      }
+    ]
+  },
+  "EW11": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "LAVENDER MRT STATION (EW11)",
+        "X": "31277.4062337531",
+        "Y": "32188.7337866109",
+        "LATITUDE": "1.30737781747063",
+        "LONGITUDE": "103.862767633888",
+        "LONGTITUDE": "103.862767633888"
+      }
+    ]
+  },
+  "EW12": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUGIS MRT STATION (EW12)",
+        "X": "30491.6000699066",
+        "Y": "31424.3512713723",
+        "LATITUDE": "1.30046508509717",
+        "LONGITUDE": "103.855706730933",
+        "LONGTITUDE": "103.855706730933"
+      }
+    ]
+  },
+  "EW15": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TANJONG PAGAR MRT STATION (EW15)",
+        "X": "29380.7567437869",
+        "Y": "28781.1883335691",
+        "LATITUDE": "1.27656131737246",
+        "LONGITUDE": "103.845725186759",
+        "LONGTITUDE": "103.845725186759"
+      }
+    ]
+  },
+  "EW17": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TIONG BAHRU MRT STATION (EW17)",
+        "X": "27346.3322650846",
+        "Y": "29836.2044219468",
+        "LATITUDE": "1.28610253615775",
+        "LONGITUDE": "103.827445112419",
+        "LONGTITUDE": "103.827445112419"
+      }
+    ]
+  },
+  "EW18": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "REDHILL MRT STATION (EW18)",
+        "X": "26155.053497511",
+        "Y": "30226.759782847",
+        "LATITUDE": "1.28963453412887",
+        "LONGITUDE": "103.81674097205",
+        "LONGTITUDE": "103.81674097205"
+      }
+    ]
+  },
+  "EW19": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "QUEENSTOWN MRT STATION (EW19)",
+        "X": "24968.2673462247",
+        "Y": "30770.3911128063",
+        "LATITUDE": "1.29455085184931",
+        "LONGITUDE": "103.806077155982",
+        "LONGTITUDE": "103.806077155982"
+      }
+    ]
+  },
+  "EW2": {
+    "found": 2,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TAMPINES MRT STATION (EW2)",
+        "X": "40444.9732025806",
+        "Y": "37267.0262664594",
+        "LATITUDE": "1.35330167637376",
+        "LONGITUDE": "103.945144586749",
+        "LONGTITUDE": "103.945144586749"
+      },
+      {
+        "SEARCHVAL": "NATIONAL UNIVERSITY OF SINGAPORE (EW2)",
+        "X": "21226.3800500352",
+        "Y": "31301.8574676998",
+        "LATITUDE": "1.29935665587108",
+        "LONGITUDE": "103.772454581851",
+        "LONGTITUDE": "103.772454581851"
+      }
+    ]
+  },
+  "EW20": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "COMMONWEALTH MRT STATION (EW20)",
+        "X": "24094.7951433668",
+        "Y": "31649.5989169721",
+        "LATITUDE": "1.30250199924325",
+        "LONGITUDE": "103.798228523336",
+        "LONGTITUDE": "103.798228523336"
+      }
+    ]
+  },
+  "EW22": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "DOVER MRT STATION (EW22)",
+        "X": "21914.5509301452",
+        "Y": "32634.1186314393",
+        "LATITUDE": "1.31140529320963",
+        "LONGITUDE": "103.778637841909",
+        "LONGTITUDE": "103.778637841909"
+      }
+    ]
+  },
+  "EW25": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CHINESE GARDEN MRT STATION (EW25)",
+        "X": "16790.7466322081",
+        "Y": "36056.3018932827",
+        "LATITUDE": "1.34235282081401",
+        "LONGITUDE": "103.732596738363",
+        "LONGTITUDE": "103.732596738363"
+      }
+    ]
+  },
+  "EW26": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "LAKESIDE MRT STATION (EW26)",
+        "X": "15494.4969534362",
+        "Y": "36267.1470333859",
+        "LATITUDE": "1.34425911493819",
+        "LONGITUDE": "103.720949087456",
+        "LONGTITUDE": "103.720949087456"
+      }
+    ]
+  },
+  "EW27": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BOON LAY MRT STATION (EW27)",
+        "X": "13837.9827195406",
+        "Y": "35641.9191215802",
+        "LATITUDE": "1.33860405469845",
+        "LONGITUDE": "103.706064622772",
+        "LONGTITUDE": "103.706064622772"
+      }
+    ]
+  },
+  "EW28": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PIONEER MRT STATION (EW28)",
+        "X": "12864.9698331021",
+        "Y": "35529.5115483906",
+        "LATITUDE": "1.33758701106708",
+        "LONGITUDE": "103.697321608474",
+        "LONGTITUDE": "103.697321608474"
+      }
+    ]
+  },
+  "EW29": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "JOO KOON MRT STATION (EW29)",
+        "X": "10756.3379743481",
+        "Y": "34438.2617777772",
+        "LATITUDE": "1.3277170408447",
+        "LONGITUDE": "103.678374996165",
+        "LONGTITUDE": "103.678374996165"
+      }
+    ]
+  },
+  "EW4": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TANAH MERAH MRT STATION (EW4)",
+        "X": "40579.0997793637",
+        "Y": "34379.4316836372",
+        "LATITUDE": "1.32718729074675",
+        "LONGITUDE": "103.946348600798",
+        "LONGTITUDE": "103.946348600798"
+      }
+    ]
+  },
+  "EW3": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SIMEI MRT STATION (EW3)",
+        "X": "41361.2281713123",
+        "Y": "36149.7527796105",
+        "LATITUDE": "1.34319707851829",
+        "LONGITUDE": "103.953377214378",
+        "LONGTITUDE": "103.953377214378"
+      }
+    ]
+  },
+  "EW30": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "GUL CIRCLE MRT STATION (EW30)",
+        "X": "8770.35150132887",
+        "Y": "33526.5733700171",
+        "LATITUDE": "1.31947090075208",
+        "LONGITUDE": "103.660530461345",
+        "LONGTITUDE": "103.660530461345"
+      }
+    ]
+  },
+  "EW31": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TUAS CRESCENT MRT STATION (EW31)",
+        "X": "7495.83786702435",
+        "Y": "33698.7263109088",
+        "LATITUDE": "1.32102695598684",
+        "LONGITUDE": "103.649078235627",
+        "LONGTITUDE": "103.649078235627"
+      }
+    ]
+  },
+  "EW32": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TUAS WEST ROAD MRT STATION (EW32)",
+        "X": "6442.92861192208",
+        "Y": "34689.3517738562",
+        "LATITUDE": "1.32998504653102",
+        "LONGITUDE": "103.639616648771",
+        "LONGTITUDE": "103.639616648771"
+      }
+    ]
+  },
+  "EW33": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TUAS LINK MRT STATION (EW33)",
+        "X": "6150.86278806347",
+        "Y": "35894.3582222275",
+        "LATITUDE": "1.34088242451105",
+        "LONGITUDE": "103.636991425128",
+        "LONGTITUDE": "103.636991425128"
+      }
+    ]
+  },
+  "EW6": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KEMBANGAN MRT STATION (EW6)",
+        "X": "36861.9614935443",
+        "Y": "33699.3440501876",
+        "LATITUDE": "1.3210381335934",
+        "LONGITUDE": "103.912947930851",
+        "LONGTITUDE": "103.912947930851"
+      }
+    ]
+  },
+  "EW9": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "ALJUNIED MRT STATION (EW9)",
+        "X": "33518.6048692847",
+        "Y": "33190.002017457",
+        "LATITUDE": "1.3164326118157",
+        "LONGITUDE": "103.882906044385",
+        "LONGTITUDE": "103.882906044385"
+      }
+    ]
+  },
+  "NE14": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "HOUGANG MRT STATION (NE14)",
+        "X": "34572.8752453458",
+        "Y": "39256.1282835789",
+        "LATITUDE": "1.37129226620797",
+        "LONGITUDE": "103.892380513029",
+        "LONGTITUDE": "103.892380513029"
+      }
+    ]
+  },
+  "NE15": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUANGKOK MRT STATION (NE15)",
+        "X": "34655.4250568021",
+        "Y": "40536.3401684985",
+        "LATITUDE": "1.38287001971672",
+        "LONGITUDE": "103.893122569706",
+        "LONGTITUDE": "103.893122569706"
+      }
+    ]
+  },
+  "NE17": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PUNGGOL MRT STATION (NE17)",
+        "X": "35651.382800173",
+        "Y": "42933.2482692804",
+        "LATITUDE": "1.40454653668991",
+        "LONGITUDE": "103.902072622229",
+        "LONGTITUDE": "103.902072622229"
+      }
+    ]
+  },
+  "NE3": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "OUTRAM PARK MRT STATION (NE3)",
+        "X": "28681.2492930563",
+        "Y": "29130.5222722683",
+        "LATITUDE": "1.27972059383553",
+        "LONGITUDE": "103.839439862425",
+        "LONGTITUDE": "103.839439862425"
+      }
+    ]
+  },
+  "NE4": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CHINATOWN MRT STATION (NE4)",
+        "X": "29124.9480295833",
+        "Y": "29643.4802091382",
+        "LATITUDE": "1.28435959278583",
+        "LONGITUDE": "103.843426681863",
+        "LONGTITUDE": "103.843426681863"
+      }
+    ]
+  },
+  "NE5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CLARKE QUAY MRT STATION (NE5)",
+        "X": "29473.1249443376",
+        "Y": "30088.7037861496",
+        "LATITUDE": "1.28838602407588",
+        "LONGITUDE": "103.846555209694",
+        "LONGTITUDE": "103.846555209694"
+      }
+    ]
+  },
+  "NE6": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "DHOBY GHAUT MRT STATION (NE6)",
+        "X": "29354.4079191377",
+        "Y": "31340.2508916464",
+        "LATITUDE": "1.29970458121203",
+        "LONGITUDE": "103.845488542541",
+        "LONGTITUDE": "103.845488542541"
+      }
+    ]
+  },
+  "NE7": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "LITTLE INDIA MRT STATION (NE7)",
+        "X": "29817.2085683132",
+        "Y": "32124.850180177",
+        "LATITUDE": "1.30680019696174",
+        "LONGITUDE": "103.849647059738",
+        "LONGTITUDE": "103.849647059738"
+      }
+    ]
+  },
+  "NE8": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "FARRER PARK MRT STATION (NE8)",
+        "X": "30243.5206485614",
+        "Y": "32689.3795552086",
+        "LATITUDE": "1.31190557325774",
+        "LONGITUDE": "103.853477716509",
+        "LONGTITUDE": "103.853477716509"
+      }
+    ]
+  },
+  "NE1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "HARBOURFRONT MRT STATION (NE1 / CC29)",
+        "X": "26688.0367021402",
+        "Y": "27545.8534260485",
+        "LATITUDE": "1.26538938374901",
+        "LONGITUDE": "103.821530157095",
+        "LONGTITUDE": "103.821530157095"
+      }
+    ]
+  },
+  "NE10": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "POTONG PASIR MRT STATION (NE10)",
+        "X": "31977.1667550961",
+        "Y": "34842.7250955887",
+        "LATITUDE": "1.33137949021368",
+        "LONGITUDE": "103.869055656782",
+        "LONGTITUDE": "103.869055656782"
+      }
+    ]
+  },
+  "NE11": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "WOODLEIGH MRT STATION (NE11)",
+        "X": "32173.3185749156",
+        "Y": "35706.3793633711",
+        "LATITUDE": "1.33919004519388",
+        "LONGITUDE": "103.87081830915",
+        "LONGTITUDE": "103.87081830915"
+      }
+    ]
+  },
+  "NE12": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SERANGOON MRT STATION (NE12)",
+        "X": "32480.0729367165",
+        "Y": "36869.3930099793",
+        "LATITUDE": "1.34970788089564",
+        "LONGITUDE": "103.873574849884",
+        "LONGTITUDE": "103.873574849884"
+      }
+    ]
+  },
+  "NE13": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KOVAN MRT STATION (NE13)",
+        "X": "33758.7578018578",
+        "Y": "38027.2794417515",
+        "LATITUDE": "1.36017917065237",
+        "LONGITUDE": "103.885064856353",
+        "LONGTITUDE": "103.885064856353"
+      }
+    ]
+  },
+  "NE16": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SENGKANG MRT STATION (NE16)",
+        "X": "34918.2740132138",
+        "Y": "41512.1276907362",
+        "LATITUDE": "1.39169462601522",
+        "LONGITUDE": "103.895484694279",
+        "LONGTITUDE": "103.895484694279"
+      }
+    ]
+  },
+  "NE9": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BOON KENG MRT STATION (NE9)",
+        "X": "31144.045013207",
+        "Y": "33510.9746132698",
+        "LATITUDE": "1.31933570922514",
+        "LONGITUDE": "103.861569454156",
+        "LONGTITUDE": "103.861569454156"
+      }
+    ]
+  },
+  "NS14": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KHATIB MRT STATION (NS14)",
+        "X": "27962.3108561579",
+        "Y": "44352.5679935999",
+        "LATITUDE": "1.41738337009565",
+        "LONGITUDE": "103.832979908243",
+        "LONGTITUDE": "103.832979908243"
+      }
+    ]
+  },
+  "NS2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUKIT BATOK MRT STATION (NS2)",
+        "X": "18679.3223191258",
+        "Y": "36794.9260214306",
+        "LATITUDE": "1.34903331201636",
+        "LONGITUDE": "103.749566478309",
+        "LONGTITUDE": "103.749566478309"
+      }
+    ]
+  },
+  "NS22": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "ORCHARD MRT STATION (NS22)",
+        "X": "27880.5476490632",
+        "Y": "31813.0165782962",
+        "LATITUDE": "1.30398013681715",
+        "LONGITUDE": "103.832245244375",
+        "LONGTITUDE": "103.832245244375"
+      }
+    ]
+  },
+  "NS24": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "DHOBY GHAUT MRT STATION (NS24)",
+        "X": "29423.9804536467",
+        "Y": "31229.3163704202",
+        "LATITUDE": "1.29870132536119",
+        "LONGITUDE": "103.846113677951",
+        "LONGTITUDE": "103.846113677951"
+      }
+    ]
+  },
+  "NS25": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CITY HALL MRT STATION (EW13 / NS25)",
+        "X": "30144.2503791479",
+        "Y": "30591.9008128252",
+        "LATITUDE": "1.29293672227779",
+        "LONGITUDE": "103.852585580366",
+        "LONGTITUDE": "103.852585580366"
+      }
+    ]
+  },
+  "NS26": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "RAFFLES PLACE MRT STATION (EW14 / NS26)",
+        "X": "30019.180527918",
+        "Y": "29617.6125848945",
+        "LATITUDE": "1.28412561043658",
+        "LONGITUDE": "103.851461712342",
+        "LONGTITUDE": "103.851461712342"
+      }
+    ]
+  },
+  "NS27": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MARINA BAY MRT STATION (NS27)",
+        "X": "30367.9547207942",
+        "Y": "28764.4959340338",
+        "LATITUDE": "1.276410298755",
+        "LONGITUDE": "103.854595522263",
+        "LONGTITUDE": "103.854595522263"
+      }
+    ]
+  },
+  "NS1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "JURONG EAST MRT STATION (EW24 / NS1)",
+        "X": "17869.0570516568",
+        "Y": "35038.9688695427",
+        "LATITUDE": "1.33315281585758",
+        "LONGITUDE": "103.742286332403",
+        "LONGTITUDE": "103.742286332403"
+      }
+    ]
+  },
+  "NS11": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SEMBAWANG MRT STATION (NS11)",
+        "X": "26522.9882623879",
+        "Y": "47854.1998395547",
+        "LATITUDE": "1.44905082158502",
+        "LONGITUDE": "103.820046140211",
+        "LONGTITUDE": "103.820046140211"
+      }
+    ]
+  },
+  "NS12": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CANBERRA MRT STATION (NS12)",
+        "X": "27597.5969376964",
+        "Y": "47193.6008830499",
+        "LATITUDE": "1.44307664075699",
+        "LONGITUDE": "103.829702590959",
+        "LONGTITUDE": "103.829702590959"
+      }
+    ]
+  },
+  "NS13": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "YISHUN MRT STATION (NS13)",
+        "X": "28187.6788169928",
+        "Y": "45686.0705381557",
+        "LATITUDE": "1.42944308477331",
+        "LONGITUDE": "103.835005047246",
+        "LONGTITUDE": "103.835005047246"
+      }
+    ]
+  },
+  "NS16": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "ANG MO KIO MRT STATION (NS16)",
+        "X": "29807.2611468043",
+        "Y": "39105.7359950263",
+        "LATITUDE": "1.36993284962262",
+        "LONGITUDE": "103.84955809232",
+        "LONGTITUDE": "103.84955809232"
+      }
+    ]
+  },
+  "NS17": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BISHAN MRT STATION (NS17)",
+        "X": "29649.8988074977",
+        "Y": "36994.4330169763",
+        "LATITUDE": "1.35083898784737",
+        "LONGITUDE": "103.848143964542",
+        "LONGTITUDE": "103.848143964542"
+      }
+    ]
+  },
+  "NS18": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BRADDELL MRT STATION (NS18)",
+        "X": "29500.2349482412",
+        "Y": "35847.7719815206",
+        "LATITUDE": "1.3404690010277",
+        "LONGITUDE": "103.846799083148",
+        "LONGTITUDE": "103.846799083148"
+      }
+    ]
+  },
+  "NS19": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TOA PAYOH MRT STATION (NS19)",
+        "X": "29578.4890669128",
+        "Y": "34980.8962922301",
+        "LATITUDE": "1.33262928096888",
+        "LONGITUDE": "103.847502198048",
+        "LONGTITUDE": "103.847502198048"
+      }
+    ]
+  },
+  "NS21": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "NEWTON MRT STATION (NS21)",
+        "X": "28519.2830723543",
+        "Y": "32735.0770371091",
+        "LATITUDE": "1.3123189224097",
+        "LONGITUDE": "103.837984594021",
+        "LONGTITUDE": "103.837984594021"
+      }
+    ]
+  },
+  "NS28": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MARINA SOUTH PIER MRT STATION (NS28)",
+        "X": "31241.8260070179",
+        "Y": "28169.2510934137",
+        "LATITUDE": "1.27102703612006",
+        "LONGITUDE": "103.862447515736",
+        "LONGTITUDE": "103.862447515736"
+      }
+    ]
+  },
+  "NS3": {
+    "found": 2,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BUKIT GOMBAK MRT STATION (NS3)",
+        "X": "18926.9127006577",
+        "Y": "37854.0358848721",
+        "LATITUDE": "1.35861159094192",
+        "LONGITUDE": "103.751790910733",
+        "LONGTITUDE": "103.751790910733"
+      },
+      {
+        "SEARCHVAL": "OCBC NANYANG TECHNOLOGICAL UNIVERSITY (NS3-01-10)",
+        "X": "11244.2432221668",
+        "Y": "36303.7363341618",
+        "LATITUDE": "1.34458794516981",
+        "LONGITUDE": "103.682758049858",
+        "LONGTITUDE": "103.682758049858"
+      }
+    ]
+  },
+  "NS5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "YEW TEE MRT STATION (NS5)",
+        "X": "18438.9831173802",
+        "Y": "42158.0181021616",
+        "LATITUDE": "1.39753506936297",
+        "LONGITUDE": "103.747405150236",
+        "LONGTITUDE": "103.747405150236"
+      }
+    ]
+  },
+  "NS7": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KRANJI MRT STATION (NS7)",
+        "X": "20078.5865077013",
+        "Y": "45204.5168451127",
+        "LATITUDE": "1.42508698073648",
+        "LONGITUDE": "103.762137459497",
+        "LONGTITUDE": "103.762137459497"
+      }
+    ]
+  },
+  "NS8": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MARSILING MRT STATION (NS8)",
+        "X": "21407.0413211482",
+        "Y": "46026.5125302058",
+        "LATITUDE": "1.43252114855026",
+        "LONGITUDE": "103.774074641403",
+        "LONGTITUDE": "103.774074641403"
+      }
+    ]
+  },
+  "NS9": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "WOODLANDS MRT STATION (NS9)",
+        "X": "22741.5981903812",
+        "Y": "46501.7861009166",
+        "LATITUDE": "1.43681962961519",
+        "LONGITUDE": "103.786066799253",
+        "LONGTITUDE": "103.786066799253"
+      }
+    ]
+  },
+  "NS10": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "ADMIRALTY MRT STATION (NS10)",
+        "X": "24402.3866267931",
+        "Y": "46918.506801948",
+        "LATITUDE": "1.44058856161847",
+        "LONGITUDE": "103.800990519771",
+        "LONGTITUDE": "103.800990519771"
+      }
+    ]
+  },
+  "NS15": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "YIO CHU KANG MRT STATION (NS15)",
+        "X": "29294.1262330338",
+        "Y": "40413.0626359228",
+        "LATITUDE": "1.38175587099132",
+        "LONGITUDE": "103.84494727118",
+        "LONGTITUDE": "103.84494727118"
+      }
+    ]
+  },
+  "NS20": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "NOVENA MRT STATION (NS20)",
+        "X": "29169.3297925005",
+        "Y": "33633.1535391063",
+        "LATITUDE": "1.32044079120154",
+        "LONGITUDE": "103.843825618748",
+        "LONGTITUDE": "103.843825618748"
+      }
+    ]
+  },
+  "NS23": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SOMERSET MRT STATION (NS23)",
+        "X": "28641.8346576076",
+        "Y": "31402.1245223526",
+        "LATITUDE": "1.30026416739006",
+        "LONGITUDE": "103.839085753124",
+        "LONGTITUDE": "103.839085753124"
+      }
+    ]
+  },
+  "NS4": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CHOA CHU KANG MRT STATION (NS4)",
+        "X": "18101.2472041463",
+        "Y": "40812.1216052417",
+        "LATITUDE": "1.38536316540225",
+        "LONGITUDE": "103.744370779756",
+        "LONGTITUDE": "103.744370779756"
+      }
+    ]
+  },
+  "PE1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "COVE LRT STATION (PE1)",
+        "X": "36084.2289814064",
+        "Y": "42351.133770803",
+        "LATITUDE": "1.39928198837342",
+        "LONGITUDE": "103.905961941214",
+        "LONGTITUDE": "103.905961941214"
+      }
+    ]
+  },
+  "PE3": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CORAL EDGE LRT STATION (PE3)",
+        "X": "36820.844465619",
+        "Y": "41757.0644781347",
+        "LATITUDE": "1.39390922863313",
+        "LONGITUDE": "103.912580845515",
+        "LONGTITUDE": "103.912580845515"
+      }
+    ]
+  },
+  "PE4": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "RIVIERA LRT STATION (PE4)",
+        "X": "37220.1990320655",
+        "Y": "41824.5905639976",
+        "LATITUDE": "1.39451978540251",
+        "LONGITUDE": "103.916169381157",
+        "LONGTITUDE": "103.916169381157"
+      }
+    ]
+  },
+  "PE5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KADALOOR LRT STATION (PE5)",
+        "X": "37265.3166702027",
+        "Y": "42376.2865863442",
+        "LATITUDE": "1.39950910636258",
+        "LONGITUDE": "103.916574974234",
+        "LONGTITUDE": "103.916574974234"
+      }
+    ]
+  },
+  "PE6": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "OASIS LRT STATION (PE6)",
+        "X": "36837.1174417054",
+        "Y": "42683.4020451903",
+        "LATITUDE": "1.40228667971123",
+        "LONGITUDE": "103.912727352412",
+        "LONGTITUDE": "103.912727352412"
+      }
+    ]
+  },
+  "PE7": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "DAMAI LRT STATION (PE7)",
+        "X": "36378.1826799456",
+        "Y": "43009.3794218432",
+        "LATITUDE": "1.40523483636957",
+        "LONGITUDE": "103.908603542566",
+        "LONGTITUDE": "103.908603542566"
+      }
+    ]
+  },
+  "PTC": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PTC CHEMICAL LOGISTICS COMPLEX",
+        "X": "14864.6722429432",
+        "Y": "28542.1745062955",
+        "LATITUDE": "1.27439706822943",
+        "LONGITUDE": "103.71529300791",
+        "LONGTITUDE": "103.71529300791"
+      }
+    ]
+  },
+  "PW1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SAM KEE LRT STATION (PW1)",
+        "X": "35958.3967099339",
+        "Y": "43493.4470222741",
+        "LATITUDE": "1.40961268528804",
+        "LONGITUDE": "103.904831550608",
+        "LONGTITUDE": "103.904831550608"
+      }
+    ]
+  },
+  "PW2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TECK LEE LRT STATION (PW2)",
+        "X": "36152.699307289",
+        "Y": "43842.6720870361",
+        "LATITUDE": "1.4127708937463",
+        "LONGITUDE": "103.906577622768",
+        "LONGTITUDE": "103.906577622768"
+      }
+    ]
+  },
+  "PW3": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "PUNGGOL POINT LRT STATION (PW3)",
+        "X": "36160.8274716362",
+        "Y": "44293.556079682",
+        "LATITUDE": "1.41684852031206",
+        "LONGITUDE": "103.906650789313",
+        "LONGTITUDE": "103.906650789313"
+      }
+    ]
+  },
+  "PW4": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SAMUDERA LRT STATION (PW4)",
+        "X": "35660.6597858425",
+        "Y": "44188.8484394047",
+        "LATITUDE": "1.41590172160383",
+        "LONGITUDE": "103.902156317163",
+        "LONGTITUDE": "103.902156317163"
+      }
+    ]
+  },
+  "PW5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "NIBONG LRT STATION (PW5)",
+        "X": "35458.481398589",
+        "Y": "43741.3183814995",
+        "LATITUDE": "1.41185447744238",
+        "LONGITUDE": "103.900339452055",
+        "LONGTITUDE": "103.900339452055"
+      }
+    ]
+  },
+  "PW6": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SUMANG LRT STATION (PW6)",
+        "X": "35260.291393281",
+        "Y": "43365.130112553",
+        "LATITUDE": "1.40845241943079",
+        "LONGITUDE": "103.898558450395",
+        "LONGTITUDE": "103.898558450395"
+      }
+    ]
+  },
+  "PW7": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SOO TECK LRT STATION (PW7)",
+        "X": "35119.198004419",
+        "Y": "43019.1258336715",
+        "LATITUDE": "1.40532331860455",
+        "LONGITUDE": "103.897290522033",
+        "LONGTITUDE": "103.897290522033"
+      }
+    ]
+  },
+  "PE2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "MERIDIAN LRT STATION (PE2)",
+        "X": "36416.793337211",
+        "Y": "42089.08824775",
+        "LATITUDE": "1.3969120498774",
+        "LONGITUDE": "103.908950224489",
+        "LONGTITUDE": "103.908950224489"
+      }
+    ]
+  },
+  "SE2": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "RUMBIA LRT STATION (SE2)",
+        "X": "36085.5523884585",
+        "Y": "41487.1566344369",
+        "LATITUDE": "1.39146849534132",
+        "LONGITUDE": "103.90597359341",
+        "LONGTITUDE": "103.90597359341"
+      }
+    ]
+  },
+  "SE4": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KANGKAR LRT STATION (SE4)",
+        "X": "35668.448192073",
+        "Y": "40656.7945456952",
+        "LATITUDE": "1.38395911688913",
+        "LONGITUDE": "103.90222537044",
+        "LONGTITUDE": "103.90222537044"
+      }
+    ]
+  },
+  "SE5": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "RANGGUNG LRT STATION (SE5)",
+        "X": "35108.5940098073",
+        "Y": "40687.1253354792",
+        "LATITUDE": "1.38423355918277",
+        "LONGITUDE": "103.897194667804",
+        "LONGTITUDE": "103.897194667804"
+      }
+    ]
+  },
+  "STC": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "SENGKANG LRT STATION (STC)",
+        "X": "34913.5878634388",
+        "Y": "41502.6996980961",
+        "LATITUDE": "1.39160936379906",
+        "LONGITUDE": "103.895442583336",
+        "LONGTITUDE": "103.895442583336"
+      }
+    ]
+  },
+  "SW1": {
+    "found": 3,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "CHENG LIM LRT STATION (SW1)",
+        "X": "34730.4628995238",
+        "Y": "42018.8888330311",
+        "LATITUDE": "1.39627763344324",
+        "LONGITUDE": "103.893797181731",
+        "LONGTITUDE": "103.893797181731"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW1 EXIT",
+        "X": "30749.9793531634",
+        "Y": "30186.5327849817",
+        "LATITUDE": "1.28927066919229",
+        "LONGITUDE": "103.858028276996",
+        "LONGTITUDE": "103.858028276996"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW1 ENTRANCE",
+        "X": "30747.8662544163",
+        "Y": "30200.8446075991",
+        "LATITUDE": "1.28940010046277",
+        "LONGITUDE": "103.858009291181",
+        "LONGTITUDE": "103.858009291181"
+      }
+    ]
+  },
+  "SW2": {
+    "found": 3,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "FARMWAY LRT STATION (SW2)",
+        "X": "34230.5208312804",
+        "Y": "42117.5715403445",
+        "LATITUDE": "1.39717019591821",
+        "LONGITUDE": "103.889304824196",
+        "LONGTITUDE": "103.889304824196"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW2 EXIT",
+        "X": "30786.8904631427",
+        "Y": "30190.5295208916",
+        "LATITUDE": "1.28930681100577",
+        "LONGITUDE": "103.858359938862",
+        "LONGTITUDE": "103.858359938862"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW2 ENTRANCE",
+        "X": "30784.0613147048",
+        "Y": "30204.9721011985",
+        "LATITUDE": "1.28943742486848",
+        "LONGITUDE": "103.858334519073",
+        "LONGTITUDE": "103.858334519073"
+      }
+    ]
+  },
+  "SW3": {
+    "found": 3,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "KUPANG LRT STATION (SW3)",
+        "X": "33334.8164311657",
+        "Y": "42232.8410119303",
+        "LATITUDE": "1.39821283031379",
+        "LONGITUDE": "103.881256222255",
+        "LONGTITUDE": "103.881256222255"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW3 EXIT",
+        "X": "30830.1120239757",
+        "Y": "30190.0735034496",
+        "LATITUDE": "1.28930268307311",
+        "LONGITUDE": "103.858748302336",
+        "LONGTITUDE": "103.858748302336"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW3 ENTRANCE",
+        "X": "30831.6930721048",
+        "Y": "30204.9819080252",
+        "LATITUDE": "1.28943750929196",
+        "LONGITUDE": "103.858762510042",
+        "LONGTITUDE": "103.858762510042"
+      }
+    ]
+  },
+  "SW4": {
+    "found": 3,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "THANGGAM LRT STATION (SW4)",
+        "X": "32709.2687078444",
+        "Y": "42133.9003911279",
+        "LATITUDE": "1.39731815581938",
+        "LONGITUDE": "103.875635154729",
+        "LONGTITUDE": "103.875635154729"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW4 EXIT",
+        "X": "30863.4258143585",
+        "Y": "30187.7365729623",
+        "LATITUDE": "1.28928154567197",
+        "LONGITUDE": "103.859047640241",
+        "LONGTITUDE": "103.859047640241"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW4 ENTRANCE",
+        "X": "30865.2423171336",
+        "Y": "30202.865237657",
+        "LATITUDE": "1.28941836382231",
+        "LONGITUDE": "103.85906396364",
+        "LONGTITUDE": "103.85906396364"
+      }
+    ]
+  },
+  "SW5": {
+    "found": 3,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "FERNVALE LRT STATION (SW5)",
+        "X": "32784.2279748796",
+        "Y": "41533.229409067",
+        "LATITUDE": "1.39188589234766",
+        "LONGITUDE": "103.87630862552",
+        "LONGTITUDE": "103.87630862552"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW5 EXIT",
+        "X": "30894.1788425148",
+        "Y": "30186.5965596233",
+        "LATITUDE": "1.28927123296922",
+        "LONGITUDE": "103.859323968749",
+        "LONGTITUDE": "103.859323968749"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW5 ENTRANCE",
+        "X": "30894.0290462635",
+        "Y": "30201.1718953066",
+        "LATITUDE": "1.28940304718632",
+        "LONGITUDE": "103.859322624105",
+        "LONGTITUDE": "103.859322624105"
+      }
+    ]
+  },
+  "SW6": {
+    "found": 3,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "LAYAR LRT STATION (SW6)",
+        "X": "33198.3233218081",
+        "Y": "41554.6826597638",
+        "LATITUDE": "1.39207983659997",
+        "LONGITUDE": "103.880029600546",
+        "LONGTITUDE": "103.880029600546"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW6 EXIT",
+        "X": "30936.9311890639",
+        "Y": "30182.0936219543",
+        "LATITUDE": "1.28923050601132",
+        "LONGITUDE": "103.859708115753",
+        "LONGTITUDE": "103.859708115753"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW6 ENTRANCE",
+        "X": "30941.0144006033",
+        "Y": "30196.358650269",
+        "LATITUDE": "1.28935951352091",
+        "LONGITUDE": "103.859744806417",
+        "LONGTITUDE": "103.859744806417"
+      }
+    ]
+  },
+  "SW7": {
+    "found": 3,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "TONGKANG LRT STATION (SW7)",
+        "X": "33845.4132231614",
+        "Y": "41252.6175956074",
+        "LATITUDE": "1.38934794658941",
+        "LONGITUDE": "103.885844150116",
+        "LONGTITUDE": "103.885844150116"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW7 EXIT",
+        "X": "30972.7367609385",
+        "Y": "30174.054506015",
+        "LATITUDE": "1.28915779970382",
+        "LONGITUDE": "103.860029842784",
+        "LONGTITUDE": "103.860029842784"
+      },
+      {
+        "SEARCHVAL": "SEATING GALLERY SW7 ENTRANCE",
+        "X": "30976.891980011",
+        "Y": "30187.8919687904",
+        "LATITUDE": "1.28928294044952",
+        "LONGITUDE": "103.860067180441",
+        "LONGTITUDE": "103.860067180441"
+      }
+    ]
+  },
+  "SW8": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "RENJONG LRT STATION (SW8)",
+        "X": "34377.0569484383",
+        "Y": "40959.8985281233",
+        "LATITUDE": "1.38670058991904",
+        "LONGITUDE": "103.89062131608",
+        "LONGTITUDE": "103.89062131608"
+      }
+    ]
+  },
+  "SE1": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "COMPASSVALE LRT STATION (SE1)",
+        "X": "35475.5631351992",
+        "Y": "41821.5781126507",
+        "LATITUDE": "1.39449304450373",
+        "LONGITUDE": "103.900492450944",
+        "LONGTITUDE": "103.900492450944"
+      }
+    ]
+  },
+  "SE3": {
+    "found": 1,
+    "totalNumPages": 1,
+    "pageNum": 1,
+    "results": [
+      {
+        "SEARCHVAL": "BAKAU LRT STATION (SE3)",
+        "X": "36023.4333449397",
+        "Y": "41102.9966866206",
+        "LATITUDE": "1.38799431054768",
+        "LONGITUDE": "103.905415300171",
+        "LONGTITUDE": "103.905415300171"
+      }
+    ]
+  }
+}

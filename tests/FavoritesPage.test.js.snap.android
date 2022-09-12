@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FavoritesPage /> renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flex": 1,
+      },
+      Object {
+        "backgroundColor": "white",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "borderTopWidth": 1,
+        },
+        Object {
+          "borderTopColor": "#E9E9E9",
+        },
+      ]
+    }
+  />
+  <RCTScrollView
+    contentContainerStyle={
+      Object {
+        "paddingTop": 10,
+      }
+    }
+    style={Object {}}
+  >
+    <View>
+      <Text
+        style={
+          Array [
+            Object {
+              "textAlign": "center",
+            },
+            Object {
+              "color": "black",
+            },
+          ]
+        }
+      >
+        No favorites to show! Tap a heart to favorite a station.
+      </Text>
+    </View>
+  </RCTScrollView>
+  <View
+    style={
+      Array [
+        Object {
+          "borderTopWidth": 1,
+          "flexDirection": "row",
+        },
+        Object {
+          "backgroundColor": "white",
+          "borderTopColor": "#E9E9E9",
+        },
+      ]
+    }
+  >
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "opacity": 1,
+          "padding": 15,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "aspectRatio": 1,
+            "height": 25,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "opacity": 1,
+          "padding": 15,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "aspectRatio": 1,
+            "height": 25,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "opacity": 1,
+          "padding": 15,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "aspectRatio": 1,
+            "height": 25,
+          }
+        }
+      />
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 1,
+          "opacity": 1,
+          "padding": 15,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "aspectRatio": 1,
+            "height": 25,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
